@@ -23,7 +23,7 @@ namespace taemlorrd
         public MainWindow()
         {
             InitializeComponent();
-            OpenPages(pages.Stopwatch);
+            OpenPages(pages.stopwatch);
         }
         public enum pages
         {
